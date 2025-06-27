@@ -19,7 +19,7 @@ AI-driven techniques for data cleaning, visualisation, predictive modelling, and
 - **Excel / Google Sheets** (Data Preprocessing)
 - **Tableau / Power BI** (Visualization)
 - **Jupyter Notebooks**
-- **Google AutoML
+- **Google AutoML**
 - **Matplotlib / Seaborn**
 
 ---
