@@ -1,4 +1,4 @@
-#📊 AI Powered Data Analysis Automation  
+# 📊 AI Powered Data Analysis Automation  
 
 AI-driven techniques for data cleaning, visualisation, predictive modelling, and business strategy development. Participants will use AI tools such as Power BI, Google AutoML, and Python to analyse data, generate insights, and enhance business decision-making
 
