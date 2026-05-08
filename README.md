@@ -1,4 +1,4 @@
-#📊 AI_Powered_Data_Analysis_-_Automatio  
+#📊 AI Powered Data Analysis Automation  
 
 AI-driven techniques for data cleaning, visualisation, predictive modelling, and business strategy development. Participants will use AI tools such as Power BI, Google AutoML, and Python to analyse data, generate insights, and enhance business decision-making
 
@@ -13,7 +13,7 @@ AI-driven techniques for data cleaning, visualisation, predictive modelling, and
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Technical Stack
 
 - **Python** (Pandas, Scikit-learn, Statsmodels, XGBoost)
 - **Excel / Google Sheets** (Data Preprocessing)
@@ -52,7 +52,7 @@ AI-driven techniques for data cleaning, visualisation, predictive modelling, and
 
 ---
 
-## 🧩 Sample Visualizations
+## 🧩 Visualizations
 
 ![Churn Confusion Matrix](images/churn_confusion_matrix.png)
 ![KMeans Clusters](images/kmeans_clusters.png)
